@@ -1,15 +1,15 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "dyttzy": {
+    "电影天堂": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+    "极速资源": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源",
+      "detail": "https://wujinapi.me"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
